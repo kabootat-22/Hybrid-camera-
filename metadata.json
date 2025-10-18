@@ -1,0 +1,7 @@
+{
+  "name": "HybridCam",
+  "description": "A web-based computational photography camera app inspired by professional tools, featuring simulated manual controls, configuration profiles, and AI-powered magic editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
